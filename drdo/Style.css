@@ -1,0 +1,10 @@
+.xyz{
+    padding: 20px;
+    margin-left: 500px;
+    overflow: hidden;
+}
+
+.dark-mode {
+    background-color: rgb(150, 240, 238);
+    color: rgb(124, 6, 6);
+    }
